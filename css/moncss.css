@@ -1,0 +1,60 @@
+@font-face {
+  font-family: myfont;
+  src: url(../Fonts/Lato-Regular.ttf);
+}
+*{
+  font-family: myfont;
+}
+  body {
+    background-image: url(../img/back3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+.forumbtn{
+    background: none;
+    border: none;
+    margin-top: -1px;
+    cursor: pointer;
+}
+.formedit{
+    margin-top: -0.55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#editst{
+    color: gray;
+}
+#editst:hover
+{
+    color:brown;
+}
+.div-pdf-excel{
+  margin: 5px !important;
+  padding: 5px !important;
+}
+.btn-pdf{
+color: red;
+background-color: whitesmoke;
+}
+.btn-excel{
+color: green;
+background-color: whitesmoke;
+}
+
+.divmain{
+  padding: 10px 10px 10px 10px;
+  margin-top: 5px;
+}
+.divst{
+  margin: 20px;
+  width: 332px;
+  height: 250px;
+}
+.cardtext{
+  text-align: center;
+  font-weight: bold;
+}
