@@ -1,5 +1,5 @@
 <?php 
 
-define('BASE_URL','http://localhost/Fruitplus/');
+define('BASE_URL','http://localhost/GestionStock/');
 
 ?>

@@ -2,7 +2,7 @@ Options All -Indexes
 
 RewriteEngine On
 
-RewriteBase /Fruitplus/
+RewriteBase /GestionStock/
 
 RewriteRule ^([-a-zA-Z0-9]+)$ index.php?page=$1
 
